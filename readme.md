@@ -9,6 +9,7 @@ The model is built in PyTorch.
 3. [Setup](#setup)
 4. [Test](#test)
 5. [Results](#results)
+6. [Authors](#authors)
 
 ## Introduction
 
@@ -84,8 +85,8 @@ Ground truth trained YoloV5 Object Detection Model is applied over both of the a
 ![Visual Detection Results2](/figures/8x_visual_detection_results2.png)
 Similarly, in the bicubic upsampled image the detection model detects only 1 object, whereas in the SRE-HAN upsampled image all of the objects have been detected except one.
 
-Authors
--------
+## Authors
+
 Bostan Khan <bkhan.mscs19seecs@seecs.edu.pk>
 
 Adeel Mumtaz <adeelmumtaz@gmail.com>

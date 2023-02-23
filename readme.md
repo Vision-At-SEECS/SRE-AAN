@@ -9,7 +9,6 @@ The model is built in PyTorch.
 3. [Setup](#setup)
 4. [Test](#test)
 5. [Results](#results)
-6. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
